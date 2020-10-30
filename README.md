@@ -1,12 +1,5 @@
 # Metis Finance Calculator UI
 
-### To log into the applicatoin:
-
-`login: metismember`
-
-######
-
-`password: et4hlTMis`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
